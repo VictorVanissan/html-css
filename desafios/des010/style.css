@@ -43,7 +43,7 @@ header>h1{
     font-family: var(--fonte1);
     font-size: 3em;
     color: white;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.249);
     font-weight: normal;
 }
